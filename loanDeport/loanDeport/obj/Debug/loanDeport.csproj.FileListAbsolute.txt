@@ -1,0 +1,7 @@
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\bin\Debug\loanDeport.exe.config
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\bin\Debug\loanDeport.exe
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\bin\Debug\loanDeport.pdb
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\obj\Debug\loanDeport.csprojAssemblyReference.cache
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\obj\Debug\loanDeport.csproj.CoreCompileInputs.cache
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\obj\Debug\loanDeport.exe
+C:\Users\THENMOLI\source\repos\loanDeport\loanDeport\obj\Debug\loanDeport.pdb
